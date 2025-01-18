@@ -1,0 +1,14 @@
+C:\Users\Leodd\estructura.de.datos.sem6.2\bin\Debug\net9.0\estructura.de.datos.sem6.2.exe
+C:\Users\Leodd\estructura.de.datos.sem6.2\bin\Debug\net9.0\estructura.de.datos.sem6.2.deps.json
+C:\Users\Leodd\estructura.de.datos.sem6.2\bin\Debug\net9.0\estructura.de.datos.sem6.2.runtimeconfig.json
+C:\Users\Leodd\estructura.de.datos.sem6.2\bin\Debug\net9.0\estructura.de.datos.sem6.2.dll
+C:\Users\Leodd\estructura.de.datos.sem6.2\bin\Debug\net9.0\estructura.de.datos.sem6.2.pdb
+C:\Users\Leodd\estructura.de.datos.sem6.2\obj\Debug\net9.0\estructura.de.datos.sem6.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leodd\estructura.de.datos.sem6.2\obj\Debug\net9.0\estructura.de.datos.sem6.2.AssemblyInfoInputs.cache
+C:\Users\Leodd\estructura.de.datos.sem6.2\obj\Debug\net9.0\estructura.de.datos.sem6.2.AssemblyInfo.cs
+C:\Users\Leodd\estructura.de.datos.sem6.2\obj\Debug\net9.0\estructura.de.datos.sem6.2.csproj.CoreCompileInputs.cache
+C:\Users\Leodd\estructura.de.datos.sem6.2\obj\Debug\net9.0\estructura.de.datos.sem6.2.dll
+C:\Users\Leodd\estructura.de.datos.sem6.2\obj\Debug\net9.0\refint\estructura.de.datos.sem6.2.dll
+C:\Users\Leodd\estructura.de.datos.sem6.2\obj\Debug\net9.0\estructura.de.datos.sem6.2.pdb
+C:\Users\Leodd\estructura.de.datos.sem6.2\obj\Debug\net9.0\estructura.de.datos.sem6.2.genruntimeconfig.cache
+C:\Users\Leodd\estructura.de.datos.sem6.2\obj\Debug\net9.0\ref\estructura.de.datos.sem6.2.dll
